@@ -1,11 +1,15 @@
 {
   "name": "electron-readus",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "test",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "remote": "^0.2.6"
+  }
 }
